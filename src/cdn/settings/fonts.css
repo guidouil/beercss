@@ -1,10 +1,10 @@
 /* fallback */
 @font-face {
-  font-family: "Material Symbols Outlined";
+  font-family: "Material Symbols Rounded";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../material-symbols-outlined.woff2") format("woff2");
+  src: url("../material-symbols-rounded.woff2") format("woff2");
 }
 
 /* cyrillic-ext */
